@@ -1,6 +1,6 @@
 a:visited{color: chartreuse};
 a:link{color:blue};
 p{color: brown;}
-section a:hover{
+a:hover:nth-child(2){
 background-color: blueviolet;
 }
